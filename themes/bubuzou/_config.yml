@@ -1,0 +1,30 @@
+menu:
+    Posts: /
+    Archives: /archives/
+    About: /about/
+
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+
+# count
+show_count: true
+favicon: /images/logo.jpeg
+logo: /images/logo.jpeg
+
+# Comment
+changyan:
+yungentie: 
+disqus: zcgu
+duoshuo: 
+
+
+# Analytics
+# google-analytics:
+ga:
+
+# Copyright Infomation
+startyear: 2018
+
